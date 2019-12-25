@@ -1,4 +1,4 @@
-FROM node:9.2.0
+FROM node:latest
 
 COPY index.js package.json /app/
 
